@@ -1,0 +1,25 @@
+.a {
+    background-color: yellow;
+    height: 400px;
+    width: 600px;
+        }
+        .aa {
+    background-color: gray;
+    height: 300px;
+    width: 100px;
+        }
+    
+        .b{
+    background-color: pink;
+    height: 250px;
+    width: 400px;
+        }
+        .bb{
+    background-color: darkmagenta;
+    height: 120px;
+    width: 350px;
+        }
+        .highlight_text{
+            color: turquoise;
+            font-size: larger;
+        }
